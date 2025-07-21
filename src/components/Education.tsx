@@ -5,7 +5,7 @@ const educationData = [
     id: 1,
     degree: 'Bachelor of Technology (B.Tech)',
     field: 'Computer Science',
-    institution: 'Dharmaraja Ramswaroop Sharma University',
+    institution: 'Sir Padampat Singhania University Bhatewar Udaipur',
     location: 'Udaipur, Rajasthan',
     duration: 'Sept 2022 - June 2026',
     grade: 'CGPA: 8.9/10',
